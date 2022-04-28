@@ -1,0 +1,156 @@
+body{
+    position: absolute;
+    margin-left: 350px;
+    margin-right: 350px;
+
+    background: #1F2937;
+}
+.main {
+    position: absolute;
+    width: 800px;
+    height: 260px;
+    left: 5;
+    top: 0px;
+    background:linear-gradient(246.26deg, #585DFE 0%, #FB3796 100%)
+}
+
+h1{
+    position: absolute;
+    width: 448.4px;
+    height: 38px;
+    left: 180px;
+    top: 53px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 30px;
+    line-height: 38px;
+    /* identical to box height, or 173% */
+    
+    text-align: center;
+    letter-spacing: -0.05em;
+    
+    color: #FFFFFF;
+}
+h4{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 20px;
+    /* or 143% */
+
+    
+
+    color: #FFFFFF;
+    }
+    
+    
+    
+
+.editable{
+        position: absolute;
+        width: 200px;
+        height: 51.23px;
+        left: 350px;
+        top: 190px;
+        
+
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 110;
+        line-height: 25%;
+        /* or 25% */
+
+        text-align: absolute;
+
+        color: #141111;
+}
+#entry {
+    position: absolute;
+    width: 211px;
+    height: 51.23px;
+    left: 90px;
+    top: 190px;
+
+    background:linear-gradient(246.26deg, #585DFE 0%, #FB3796 100%);
+    color: #FFFFFF;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 25%;
+}
+
+
+#Meter{
+    position: absolute;
+    width: 346px;
+    height: 55px;
+    left: 320px;
+    top: 298px;
+}
+#Liters{
+    position: absolute;
+    width: 346px;
+    height: 55px;
+    left: 320px;
+    top: 380px;
+}
+#Kilograms{
+    position: absolute;
+    width: 346px;
+    height: 51px;
+    left: 320px;
+    top: 462px;
+}
+.presults{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    /* or 143% */
+    
+   
+
+    color: #D2D2D2;
+}
+#pMeter{
+    
+    width: 346px;
+    height: 55px;
+    left: 320px;
+    top: 288px;
+   
+}
+
+#pKilograms{
+    
+    width: 346px;
+    height: 51px;
+    left: 320px;
+    top: 452px;
+}
+
+#pLiters{
+  
+    width: 346px;
+    height: 55px;
+    left: 320px;
+    top: 370px;
+}
+span{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 20px;
+    
+    
+
+    color: #ada3a3;
+}
