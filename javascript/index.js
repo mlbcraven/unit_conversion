@@ -1,6 +1,6 @@
 
 
-let value = 20 
+let value = 20
 
 function onClick(){
    
